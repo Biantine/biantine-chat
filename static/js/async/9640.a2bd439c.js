@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkbiantine_chat=self.rspackChunkbiantine_chat||[]).push([[9640],{8907(e,a,s){s.d(a,{createPieServices:()=>c.f});var c=s(4383);s(7127)}}]);

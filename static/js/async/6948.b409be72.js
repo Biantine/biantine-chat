@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkbiantine_chat=self.rspackChunkbiantine_chat||[]).push([[6948],{7039(a,e,s){s.d(e,{createGitGraphServices:()=>t.b});var t=s(2381);s(7127)}}]);

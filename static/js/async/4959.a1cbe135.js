@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkbiantine_chat=self.rspackChunkbiantine_chat||[]).push([[4959],{4226(s,t,a){a.r(s.exports={})}}]);
